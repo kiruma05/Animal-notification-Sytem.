@@ -1,0 +1,172 @@
+{
+  "ranchies": [
+    {
+      "serialNumber": "1",
+      "ranch_name": "dodoma",
+      "dtext": "big ranch contain cows more than 1000",
+      "id": "ca5b"
+    },
+    {
+      "id": "bbf7",
+      "name": "Morogoro Ndichi",
+      "description": "among of our ranch rich in food for cattles"
+    },
+    {
+      "id": "f56c",
+      "name": "Mara Ranch",
+      "description": "is at mara region"
+    }
+  ],
+  "users": [
+    {
+      "fullName": "frank kiruma",
+      "email": "kiruma@narco.go.tz",
+      "password": "kiruma123",
+      "confirmPassword": "kiruma123",
+      "role": "recoder",
+      "image": "https://via.placeholder.com/150",
+      "id": "4"
+    },
+    {
+      "fullName": "juma juma",
+      "email": "juma@narco.go.tz",
+      "password": "juma1234",
+      "confirmPassword": "juma1234",
+      "role": "admin",
+      "id": "0915"
+    },
+    {
+      "fullName": "juma alex",
+      "email": "alex@narco.go.tz",
+      "password": "alex123",
+      "confirmPassword": "alex123",
+      "role": "managing director",
+      "id": "48bc"
+    },
+    {
+      "fullName": "amariii masudi",
+      "email": "amar@narco.go.tz",
+      "password": "amari123",
+      "confirmPassword": "amari123",
+      "role": "managing director",
+      "id": "53e9"
+    },
+    {
+      "id": "19db",
+      "fullName": "kiruma_jr",
+      "email": "kiruma@narco.co.tz",
+      "password": "kiruma123",
+      "confirmPassword": "kiruma123",
+      "role": "admin"
+    },
+    {
+      "id": "b771",
+      "fullName": "ghh",
+      "email": "yyu@nsrco.tz",
+      "password": "kiruma123",
+      "confirmPassword": "kiruma123",
+      "role": "admin"
+    },
+    {
+      "id": "68ab",
+      "fullName": "mj",
+      "email": "mj@kl.com",
+      "password": "11",
+      "confirmPassword": "11",
+      "role": "supervisor"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "1",
+      "userId": 1,
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "userId": 2,
+      "role": "supervisor"
+    },
+    {
+      "id": "3",
+      "userId": 3,
+      "role": "recoder"
+    },
+    {
+      "id": "6",
+      "userId": 3,
+      "role": "recoder"
+    }
+  ],
+  "cattle": [
+    {
+      "tagNumber": "C001",
+      "BOT": "12-05-2012",
+      "ranchId": "Mara",
+      "subcategoryName": "bull",
+      "id": "1"
+    },
+    {
+      "tagNumber": "C002",
+      "DOB": "2023-11-20",
+      "ranchId": "Dodoma",
+      "categoryName": "Buuls",
+      "subcategoryName": "Beef",
+      "id": "2"
+    },
+    {
+      "tagNumber": "C003",
+      "DOB": "2023-11-20",
+      "ranchId": "Dodoma",
+      "categoryName": "got",
+      "subCategoryName": "Beefz",
+      "id": "3"
+    },
+    {
+      "tagNumber": "C004",
+      "DOB": "2023-11-20",
+      "ranchId": "Tabora",
+      "categoryName": "cows",
+      "subCategoryName": "Beef",
+      "id": "4"
+    },
+    {
+      "tagNumber": "C005",
+      "DOB": "2023-11-20",
+      "ranchId": "Morogoro",
+      "categoryName": "Buuls",
+      "subCategoryName": "Beef",
+      "id": "5"
+    },
+    {
+      "id": "0cc2",
+      "tagNumber": "c0010",
+      "BOT": "5-10-2000",
+      "ranchId": "Mwanza",
+      "categoryName": "Buuls",
+      "subcategoryName": "Got"
+    },
+    {
+      "id": "3df8",
+      "tagNumber": "c0010",
+      "BOT": "5-10-2000",
+      "ranchId": "Mwanza",
+      "categoryName": "Buuls",
+      "subcategoryName": "GOAT"
+    }
+  ],
+  "categories": [
+    {
+      "id": "485b",
+      "name": "cowsnn",
+      "description": "wwwww"
+    }
+  ],
+  "subCategories": [
+    {
+      "id": "485b",
+      "name": "cowsnn",
+      "description": "wwwww"
+    }
+  ]
+}
